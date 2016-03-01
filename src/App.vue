@@ -4,5 +4,5 @@
   </div>
 </template>
 
-<script lang="livescript">
+<script lang="ls">
 </script>

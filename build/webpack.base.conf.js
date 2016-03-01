@@ -22,11 +22,11 @@ module.exports = {
     loaders: [
       {
         test: /\.vue$/,
-        loader: 'vue'
+        loader: 'vue-livescript-loader'
       },
       {
         test: /\.ls$/,
-        loader: 'livescript'
+        loader: 'vue-livescript-loader'
       },
       {
         test: /\.(png|jpg|gif|svg)$/,
